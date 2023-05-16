@@ -28,7 +28,7 @@ body{
   flex-direction: column;
   text-align: center;
   flex-wrap: wrap;
-  padding: 5.2rem;
+  padding:  0rem 10rem;
   
 }
 .main{
@@ -89,7 +89,7 @@ body{
     color: var(--light-grayish-magenta);
 }
 .card{
-  width: 250px;
+  width: 300px;
   background-color: var(--very-dark-magenta);
   border-radius: 5px;
   padding: 1rem 1.7rem;
@@ -98,6 +98,7 @@ body{
   position: relative;
   font-size: .8rem;
 }
+
 .card img{
   width: 3rem;
   height: 3rem;
